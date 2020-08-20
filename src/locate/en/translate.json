@@ -1,0 +1,20 @@
+{
+    "translations": {
+        "Title": "Notes",
+        "ModalDelete": {
+            "Title": "Are you sure, you want to delete ?",
+            "PositiveButton": "Yes",
+            "NegativeButton": "No"
+        },
+        "DeletedMessage": "Note has been deleted successfully",
+        "UpdatedMessage": "Note has been updated successfully",
+        "CreatedMessage": "Note has been created successfully",
+        "UpdateTitle": "Update note",
+        "CreateTitle": "Create note",
+        "ErrorMessage": "Something went wrong",
+        "NoteErrorMessage": "The note is empty!",
+        "UpdateButton": "Update",
+        "CreateButton": "Create",
+        "ChangeButtonMessage": "Change language to russian"
+    }
+}

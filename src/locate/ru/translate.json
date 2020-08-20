@@ -1,0 +1,20 @@
+{
+    "translations": {
+        "Title": "Заметки",
+        "ModalDelete": {
+            "Title": "Вы уверены, что хотите удалить?",
+            "PositiveButton": "Да",
+            "NegativeButton": "Нет"
+        },
+        "DeletedMessage": "Заметка была успешно удалена",
+        "UpdatedMessage": "Заметка была успешно изменена",
+        "CreatedMessage": "Заметка была успешно создана",
+        "NoteErrorMessage": "Заметка пустая!",
+        "ErrorMessage": "Что-то пошло не так",
+        "UpdateTitle": "Изменить заметку",
+        "CreateTitle": "Создать заметку",
+        "UpdateButton": "Изменить",
+        "CreateButton": "Создать",
+        "ChangeButtonMessage": "Изменить язык на английский"
+    }
+}

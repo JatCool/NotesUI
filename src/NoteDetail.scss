@@ -1,0 +1,26 @@
+.notes-wrapper-detail {
+    margin: 20px;
+    display: flex;
+    overflow: auto;
+    flex-wrap: wrap;
+
+    .note-detail {
+        margin: 5px;
+        height: 570px;
+        width: 1260px;
+        word-break: break-all;
+        word-wrap: break-word;
+        overflow: auto;
+        padding: 5px;
+        border: 3px solid black;
+        background: #f5f5dc;
+    }
+
+    .back {
+        color: black;
+        position: fixed absolute;
+        float: left;
+        margin: 2px;
+        width: 30px;
+    }
+}
